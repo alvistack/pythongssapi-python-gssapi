@@ -1,0 +1,5 @@
+python-gssapi source: file-without-copyright-information
+python-gssapi source: no-debian-changes
+python-gssapi source: source-contains-prebuilt-windows-binary
+python-gssapi source: source-is-missing
+python-gssapi source: source-package-encodes-python-version
